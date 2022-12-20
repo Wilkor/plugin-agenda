@@ -1,1 +1,1 @@
-# plugin-agenda
+# plugin-tray
